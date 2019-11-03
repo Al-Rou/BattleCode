@@ -94,7 +94,7 @@ public class Play
         else if (monster.getLife()<=0)
         {
             System.out.println("Congratulations!\n"+
-                    "You killed the monster!");
+                    "You killed the monster, bro!");
             System.out.print("Your Life: ");
             System.out.println(spieler.getLife());
             System.out.print("Your Mana: ");
