@@ -1,1 +1,1 @@
-"# BattleCode" 
+This is a simple game, developed as the first exercise during a programming course at University of Duisburg-Essen. It contains a battle field where a player fights a monster! Rules are simple and explained inside the code.
